@@ -2,6 +2,6 @@
 ## Ingredienti
 * Spaghetti
 * Aglio
-* Olio
+* Olio extra vergine d'oliva
 * Peperoncino
 * Prezzemolo
