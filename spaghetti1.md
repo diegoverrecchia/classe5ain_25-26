@@ -1,6 +1,6 @@
 # Spaghetti aglio, olio e peperoncino
 ## Ingredienti
-* Spaghetti
+* Spaghetti numero 15
 * Aglio
 * Olio extra vergine d'oliva
 * Peperoncino
